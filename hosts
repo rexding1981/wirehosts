@@ -1,0 +1,20 @@
+# https://github.com/googlehosts/hosts
+# Last updated: 2018-02-11
+
+# This work is licensed under a modified HOSTS License.
+# https://github.com/googlehosts/hosts/raw/master/LICENSE
+
+# Modified Hosts Start
+
+# Localhost (DO NOT REMOVE) Start
+127.0.0.1	localhost
+::1	localhost
+::1	ip6-localhost
+::1	ip6-loopback
+# Localhost (DO NOT REMOVE) End
+
+# wire
+52.17.174.36    app.wire.com
+54.217.202.52   prod-nginz-https.wire.com
+176.34.235.16   prod-nginz-ssl.wire.com
+54.192.122.96   prod-assets.wire.com
